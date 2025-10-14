@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:characters\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\combat\\attackfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:combat\\attackfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\characters\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:characters\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\combat\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:combat\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\combat\\attackfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:combat\\attackfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\combat\\physicalattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:combat\\physicalattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\characters\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:characters\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\combat\\magicattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:combat\\magicattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\combat\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:combat\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "MagicAttack.cs",
               "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Combat\\MagicAttack.cs",
               "RelativeDocumentMoniker": "Combat\\MagicAttack.cs",
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Attack.cs",
               "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Combat\\Attack.cs",
               "RelativeDocumentMoniker": "Combat\\Attack.cs",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AttackFactory.cs",
               "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Combat\\AttackFactory.cs",
               "RelativeDocumentMoniker": "Combat\\AttackFactory.cs",
@@ -119,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Character.cs",
               "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Characters\\Character.cs",
               "RelativeDocumentMoniker": "Characters\\Character.cs",
@@ -151,7 +151,7 @@
               "RelativeDocumentMoniker": "Characters\\Player.cs",
               "ToolTip": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Characters\\Player.cs",
               "RelativeToolTip": "Characters\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAIA3wDoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T15:02:18.016Z",
               "EditorCaption": ""

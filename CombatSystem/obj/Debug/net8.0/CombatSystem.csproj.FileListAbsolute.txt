@@ -1,0 +1,15 @@
+E:\Programming\C# projects\CombatSystem\CombatSystem\bin\Debug\net8.0\CombatSystem.exe
+E:\Programming\C# projects\CombatSystem\CombatSystem\bin\Debug\net8.0\CombatSystem.deps.json
+E:\Programming\C# projects\CombatSystem\CombatSystem\bin\Debug\net8.0\CombatSystem.runtimeconfig.json
+E:\Programming\C# projects\CombatSystem\CombatSystem\bin\Debug\net8.0\CombatSystem.dll
+E:\Programming\C# projects\CombatSystem\CombatSystem\bin\Debug\net8.0\CombatSystem.pdb
+E:\Programming\C# projects\CombatSystem\CombatSystem\obj\Debug\net8.0\CombatSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C# projects\CombatSystem\CombatSystem\obj\Debug\net8.0\CombatSystem.AssemblyInfoInputs.cache
+E:\Programming\C# projects\CombatSystem\CombatSystem\obj\Debug\net8.0\CombatSystem.AssemblyInfo.cs
+E:\Programming\C# projects\CombatSystem\CombatSystem\obj\Debug\net8.0\CombatSystem.csproj.CoreCompileInputs.cache
+E:\Programming\C# projects\CombatSystem\CombatSystem\obj\Debug\net8.0\CombatSystem.sourcelink.json
+E:\Programming\C# projects\CombatSystem\CombatSystem\obj\Debug\net8.0\CombatSystem.dll
+E:\Programming\C# projects\CombatSystem\CombatSystem\obj\Debug\net8.0\refint\CombatSystem.dll
+E:\Programming\C# projects\CombatSystem\CombatSystem\obj\Debug\net8.0\CombatSystem.pdb
+E:\Programming\C# projects\CombatSystem\CombatSystem\obj\Debug\net8.0\CombatSystem.genruntimeconfig.cache
+E:\Programming\C# projects\CombatSystem\CombatSystem\obj\Debug\net8.0\ref\CombatSystem.dll

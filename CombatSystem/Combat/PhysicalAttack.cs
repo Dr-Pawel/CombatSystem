@@ -11,15 +11,23 @@ namespace CombatSystem.Combat
 {
     internal class PhysicalAttack : Attack
     {
-        public PhysicalAttack(string name, int damageAmount)
+        public PhysicalAttack(string name, int damageAmount, IEffect? effect = null)
         {
             this.AttackName = name;
             this.DamageAmount = damageAmount;
+            Effect = effect;
         }
 
         public override void ExecuteAttack(IDamageable target)
         {
+            if (target is not Character targetCharacter)
+            {
+                Console.WriteLine("Target cannot be attacked — it's not a Character!");
+                return;
+            }
             target.TakeDamage(DamageAmount);
+            Console.WriteLine($"Physical attack {AttackName} deals {DamageAmount}.");
+            Effect?.ApplyEffect(targetCharacter);
         }
     }
 }

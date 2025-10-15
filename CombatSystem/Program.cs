@@ -10,6 +10,7 @@ namespace CombatSystem
             Enemy ghoul = new Enemy("Ghoul", 50);
 
             hero.Attack(ghoul);
+            ghoul.Attack(hero);
         }
     }
 }

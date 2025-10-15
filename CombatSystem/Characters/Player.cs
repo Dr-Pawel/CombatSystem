@@ -11,15 +11,14 @@ namespace CombatSystem.Characters
     public class Player : Character, IHealable
     {
         List<Attack> Attacks = new List<Attack>();
-        
-
-
+    
         public Player(string name, int maxHealth)
         {
             this.Name = name;
             SetMaxHealth(maxHealth);
-            Attacks.Add(new MagicAttack("Fireball", 40));
-            Attacks.Add(new PhysicalAttack("Sword Slash", 25));
+            Attacks.Add(AttackFactory.CreateFireball());
+            Attacks.Add(AttackFactory.CreateLightningStrike());
+            Attacks.Add(AttackFactory.CreateSwordSlash());
             Console.WriteLine($"new Player of name {name} has been created. \n");
 
         }

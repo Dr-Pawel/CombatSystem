@@ -12,6 +12,7 @@ namespace CombatSystem.Combat
     {
         public string AttackName { get; set; }
         public int DamageAmount { get; set; }
+        public IEffect? Effect { get; set; }
 
         public abstract void ExecuteAttack(IDamageable target);
     }

@@ -7,30 +7,6 @@
       "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:characters\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\characters\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:characters\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\combat\\attackfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:combat\\attackfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\combat\\physicalattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:combat\\physicalattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\combat\\magicattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:combat\\magicattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\combat\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:combat\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\characters\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:characters\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,8 +15,16 @@
       "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:interfaces\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\interfaces\\ihealable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:interfaces\\ihealable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\combat\\effetcts\\burneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:combat\\effetcts\\burneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\combat\\attackfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:combat\\attackfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,97 +34,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T15:50:50.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MagicAttack.cs",
-              "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Combat\\MagicAttack.cs",
-              "RelativeDocumentMoniker": "Combat\\MagicAttack.cs",
-              "ToolTip": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Combat\\MagicAttack.cs",
-              "RelativeToolTip": "Combat\\MagicAttack.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAnwBcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T13:37:48.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PhysicalAttack.cs",
-              "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Combat\\PhysicalAttack.cs",
-              "RelativeDocumentMoniker": "Combat\\PhysicalAttack.cs",
-              "ToolTip": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Combat\\PhysicalAttack.cs",
-              "RelativeToolTip": "Combat\\PhysicalAttack.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAnwBgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T13:37:35.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Attack.cs",
-              "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Combat\\Attack.cs",
-              "RelativeDocumentMoniker": "Combat\\Attack.cs",
-              "ToolTip": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Combat\\Attack.cs",
-              "RelativeToolTip": "Combat\\Attack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T15:34:09.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AttackFactory.cs",
-              "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Combat\\AttackFactory.cs",
-              "RelativeDocumentMoniker": "Combat\\AttackFactory.cs",
-              "ToolTip": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Combat\\AttackFactory.cs",
-              "RelativeToolTip": "Combat\\AttackFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T15:40:13.189Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Character.cs",
-              "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Characters\\Character.cs",
-              "RelativeDocumentMoniker": "Characters\\Character.cs",
-              "ToolTip": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Characters\\Character.cs",
-              "RelativeToolTip": "Characters\\Character.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T15:40:08.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Enemy.cs",
               "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Characters\\Enemy.cs",
               "RelativeDocumentMoniker": "Characters\\Enemy.cs",
               "ToolTip": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Characters\\Enemy.cs",
               "RelativeToolTip": "Characters\\Enemy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T15:06:37.905Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Interfaces\\IDamageable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDamageable.cs",
+              "ToolTip": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Interfaces\\IDamageable.cs",
+              "RelativeToolTip": "Interfaces\\IDamageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:15:56.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttackFactory.cs",
+              "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Combat\\AttackFactory.cs",
+              "RelativeDocumentMoniker": "Combat\\AttackFactory.cs",
+              "ToolTip": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Combat\\AttackFactory.cs",
+              "RelativeToolTip": "Combat\\AttackFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:12:12.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BurnEffect.cs",
+              "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Combat\\Effetcts\\BurnEffect.cs",
+              "RelativeDocumentMoniker": "Combat\\Effetcts\\BurnEffect.cs",
+              "ToolTip": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Combat\\Effetcts\\BurnEffect.cs",
+              "RelativeToolTip": "Combat\\Effetcts\\BurnEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T19:41:29.509Z",
               "EditorCaption": ""
             },
             {
@@ -151,35 +111,10 @@
               "RelativeDocumentMoniker": "Characters\\Player.cs",
               "ToolTip": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Characters\\Player.cs",
               "RelativeToolTip": "Characters\\Player.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAIA3wDoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAywBsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T15:02:18.016Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IDamageable.cs",
-              "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Interfaces\\IDamageable.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IDamageable.cs",
-              "ToolTip": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Interfaces\\IDamageable.cs",
-              "RelativeToolTip": "Interfaces\\IDamageable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T14:59:58.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IHealable.cs",
-              "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Interfaces\\IHealable.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IHealable.cs",
-              "ToolTip": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Interfaces\\IHealable.cs",
-              "RelativeToolTip": "Interfaces\\IHealable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T15:07:45.908Z"
             }
           ]
         }

@@ -42,7 +42,7 @@ namespace CombatSystem.Characters
             Console.WriteLine($"\n{this.Name} uses {chosenAttack.AttackName}!");
             chosenAttack.ExecuteAttack(targetCharacter);
 
-            Console.WriteLine($"{targetCharacter.Name} current HP : {CurrentHealth}/{MaxHealth}");
+            Console.WriteLine($"{targetCharacter.Name} current HP : {targetCharacter.CurrentHealth}/{targetCharacter.MaxHealth}");
         }
     }
 }

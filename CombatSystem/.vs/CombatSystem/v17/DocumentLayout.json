@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\characters\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:characters\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\interfaces\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:interfaces\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8432DE3A-0B34-4A37-87D4-EDED404FD9D8}|CombatSystem.csproj|e:\\programming\\c# projects\\combatsystem\\combatsystem\\combat\\effetcts\\burneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,24 +34,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAowGYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T15:50:50.587Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Enemy.cs",
               "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Characters\\Enemy.cs",
               "RelativeDocumentMoniker": "Characters\\Enemy.cs",
@@ -60,11 +61,12 @@
               "ViewState": "AgIAABMAAAAAAAAAAAAowCwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T15:06:37.905Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IDamageable.cs",
               "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Interfaces\\IDamageable.cs",
               "RelativeDocumentMoniker": "Interfaces\\IDamageable.cs",
@@ -100,13 +102,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Characters\\Player.cs",
               "RelativeDocumentMoniker": "Characters\\Player.cs",
               "ToolTip": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Characters\\Player.cs",
               "RelativeToolTip": "Characters\\Player.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAywBsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAASwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T15:02:18.016Z",
               "EditorCaption": ""

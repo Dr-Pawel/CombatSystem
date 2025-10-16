@@ -56,7 +56,7 @@ namespace CombatSystem.Characters
                         if (target is Character targetCharacter)
                         {
                             Console.WriteLine($"{targetCharacter.Name} lost {Attacks[index].DamageAmount} health.");
-                            Console.WriteLine($"{targetCharacter.Name} has {targetCharacter.CurrentHealth} HP left.");
+                            Console.WriteLine($"{targetCharacter.Name} current HP : {targetCharacter.CurrentHealth}/{targetCharacter.MaxHealth}"); ;
                         }
 
                         break;
@@ -73,7 +73,7 @@ namespace CombatSystem.Characters
             }
         }
 
-        private void ShowCharacterAttacks()
+        public void ShowCharacterAttacks()
         {
             for (int i = 0; i < Attacks.Count; i++)
             {

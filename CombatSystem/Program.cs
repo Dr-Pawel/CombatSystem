@@ -97,8 +97,14 @@ namespace CombatSystem
                     Console.WriteLine($"\n{player.Name} has been defeated! {enemy.Name} wins!");
                     break;
                 }
-
+                // win information
+                
             }
+            if (player.CurrentHealth <= 0 && enemy.CurrentHealth <= 0)
+            {
+                Console.WriteLine("press any key to close app");
+            }
+            Console.ReadKey();
 
             static void ShowStatus(Character a, Character b)
             {

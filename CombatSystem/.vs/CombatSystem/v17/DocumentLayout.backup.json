@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Programming\\C# projects\\CombatSystem\\CombatSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAowGoAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAowG0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T15:50:50.587Z",
               "IsPinned": true,
@@ -61,8 +61,7 @@
               "ViewState": "AgIAABMAAAAAAAAAAAAowCwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T15:06:37.905Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -110,8 +109,7 @@
               "RelativeToolTip": "Characters\\Player.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAASwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T15:02:18.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T15:02:18.016Z"
             }
           ]
         }
